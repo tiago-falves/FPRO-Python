@@ -1,0 +1,9 @@
+def calculator(expr):
+    if type(expr).__name__!="tuple":
+        return expr
+    if expr[1]=="+":
+        return calculator(expr[0])+calculator(expr[2])
+    elif expr[1]=="*":
+        return calculator(expr[0])*calculator(expr[2])
+    if expr[1]=="-":
+        return calculator(expr[0])-calculator(expr[2])

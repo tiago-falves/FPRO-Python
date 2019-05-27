@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>FPRO 2018/2019 [J. Correia Lopes]</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="theme-color" content="#008800"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="teach,fpro,index"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/~jlopes/lib/exe/opensearch.php" title="J. Correia Lopes"/>
+<link rel="start" href="/~jlopes/"/>
+<link rel="contents" href="/~jlopes/doku.php/teach/fpro/index?do=index" title="Sitemap"/>
+<link rel="manifest" href="/~jlopes/lib/exe/manifest.php"/>
+<link rel="alternate" type="application/rss+xml" title="Recent Changes" href="/~jlopes/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/~jlopes/feed.php?mode=list&amp;ns=teach:fpro"/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/~jlopes/doku.php/teach/fpro/index?do=export_xhtml"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/~jlopes/doku.php/teach/fpro/index?do=export_raw"/>
+<link rel="canonical" href="https://web.fe.up.pt/~jlopes/doku.php/teach/fpro/index"/>
+<link rel="stylesheet" type="text/css" href="/~jlopes/lib/exe/css.php?t=dokuwiki&amp;tseed=93974df65aa0d39181cc6317d20be46c"/>
+<!--[if gte IE 9]><!-->
+<script type="text/javascript">/*<![CDATA[*/var NS='teach:fpro';var JSINFO = {"relation":{"imageflow":null},"plugins":{"edittable":{"default columnwidth":""}},"move_renameokay":false,"id":"teach:fpro:index","namespace":"teach:fpro","ACT":"show","useHeadingNavigation":1,"useHeadingContent":0};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/~jlopes/lib/exe/jquery.php?tseed=23f888679b4f1dc26eef34902aca964f"></script>
+<script type="text/javascript" charset="utf-8" src="/~jlopes/lib/exe/js.php?t=dokuwiki&amp;tseed=93974df65aa0d39181cc6317d20be46c"></script>
+<!--<![endif]-->
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/~jlopes/lib/exe/fetch.php/favicon.ico" />
+<link rel="apple-touch-icon" href="/~jlopes/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/~jlopes/doku.php/index"  accesskey="h" title="[H]"><img src="/~jlopes/lib/exe/fetch.php/logo.png" width="83" height="63" alt="" /> <span>J. Correia Lopes</span></a></h1>
+                    <p class="claim">FEUP/DEI & INESC TEC</p>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li class="action login"><a href="/~jlopes/doku.php/teach/fpro/index?do=login&amp;sectok=" title="Log In" rel="nofollow"><span>Log In</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10 17.25V14H3v-4h7V6.75L15.25 12 10 17.25M8 2h9a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2v-4h2v4h9V4H8v4H6V4a2 2 0 0 1 2-2z"/></svg></a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/~jlopes/doku.php/index" method="get" role="search" class="search doku_form" id="dw__search" accept-charset="utf-8"><input type="hidden" name="do" value="search" /><input type="hidden" name="id" value="teach:fpro:index" /><div class="no"><input name="q" type="text" class="edit" title="[F]" accesskey="f" placeholder="Search" autocomplete="on" id="qsearch__in" value="" /><button value="1" type="submit" title="Search">Search</button><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/~jlopes/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="teach:fpro:index" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="export_pdf">Export to PDF</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent Changes</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Log In</option></optgroup></select><button type="submit">&gt;</button></div></form>            </div>
+            <ul>
+                <li class="action recent"><a href="/~jlopes/doku.php/teach/fpro/index?do=recent" title="Recent Changes [r]" rel="nofollow" accesskey="r">Recent Changes</a></li><li class="action index"><a href="/~jlopes/doku.php/teach/fpro/index?do=index" title="Sitemap [x]" rel="nofollow" accesskey="x">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                            <div class="youarehere"><span class="bchead">You are here: </span><span class="home"><bdi><a href="/~jlopes/doku.php/index" class="wikilink1" title="index">João Correia Lopes</a></bdi></span> » <bdi><a href="/~jlopes/doku.php/teach/index" class="wikilink1" title="teach:index">Teaching</a></bdi> » <bdi><span class="curid"><a href="/~jlopes/doku.php/teach/fpro/index" class="wikilink1" title="teach:fpro:index">FPRO 2018/2019</a></span></bdi></div>
+                                </div>
+    
+
+
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+                
+                <div class="pageId"><span>teach:fpro:index</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <!-- TOC START -->
+<div id="dw__toc" class="dw__toc">
+<h3 class="toggle">Table of Contents</h3>
+<div>
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#general_information">General Information</a></div></li>
+<li class="level1"><div class="li"><a href="#course_materials">Course Materials</a></div></li>
+<li class="level1"><div class="li"><a href="#plan">Plan</a></div></li>
+<li class="level1"><div class="li"><a href="#recent_changes">Recent changes</a></div></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<h1 class="sectionedit1" id="fpro_20182019">FPRO 2018/2019</h1>
+<div class="level1">
+
+<p>
+<strong>Master in Informatics and Computing Engineering<br/>
+
+  Programming Fundamentals<br/>
+
+  Instance: 2018/2019</strong>
+<br/>
+
+—
+<br/>
+
+</p>
+
+</div>
+
+<h1 class="sectionedit2" id="programming_fundamentals_fundamentos_da_programacao">Programming Fundamentals (Fundamentos da Programação)</h1>
+<div class="level1">
+
+<p>
+The Unit aim at giving the student the ability to create algorithms, and to use a programming language to implement, test, and debug algorithms to solve simple problems.
+</p>
+
+<p>
+&quot;Students are responsible for anything that transpires during a class. Therefore if you&#039;re not in a class, you should get notes from someone else (not the instructor)&quot;.  David Maier
+</p>
+
+</div>
+
+<h2 class="sectionedit3" id="general_information">General Information</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> Course Unit: <a href="/~jlopes/doku.php/teach/fpro/sheet" class="wikilink1" title="teach:fpro:sheet">Fact sheet</a> (<a href="/~jlopes/doku.php/teach/fpro/ficha" class="wikilink1" title="teach:fpro:ficha">Ficha da UC</a>) | <a href="/~jlopes/doku.php/teach/fpro/plan" class="wikilink1" title="teach:fpro:plan">Contents</a> (Plano)</div>
+</li>
+<li class="level1"><div class="li"> SIGARRA (MIEIC): <a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=419983" class="urlextern" title="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=419983" rel="nofollow">English</a> | <a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=419983" class="urlextern" title="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=419983" rel="nofollow">Português</a> | <a href="https://sigarra.up.pt/feup/pt/sumarios_geral.ver?pv_ocorrencia_id=419983" class="urlextern" title="https://sigarra.up.pt/feup/pt/sumarios_geral.ver?pv_ocorrencia_id=419983" rel="nofollow">Summaries</a> | <a href="https://sigarra.up.pt/feup/pt/fest_geral.estudantes_inscritos_list?pv_ocorrencia_id=419983" class="urlextern" title="https://sigarra.up.pt/feup/pt/fest_geral.estudantes_inscritos_list?pv_ocorrencia_id=419983" rel="nofollow">Students</a> | <a href="https://sigarra.up.pt/feup/pt/fest_geral.fotos_estud_inscritos_list?pv_ocorrencia_id=419983&amp;pv_dimensao_matriz=6" class="urlextern" title="https://sigarra.up.pt/feup/pt/fest_geral.fotos_estud_inscritos_list?pv_ocorrencia_id=419983&amp;pv_dimensao_matriz=6" rel="nofollow">Photos</a> | <a href="https://sigarra.up.pt/feup/pt/it_listagem.lista_turma_disciplina?pv_curso_id=742&amp;pv_ocorrencia_id=419983&amp;pv_ano_lectivo=2018&amp;pv_periodo_id=1&amp;pv_no_menu=1" class="urlextern" title="https://sigarra.up.pt/feup/pt/it_listagem.lista_turma_disciplina?pv_curso_id=742&amp;pv_ocorrencia_id=419983&amp;pv_ano_lectivo=2018&amp;pv_periodo_id=1&amp;pv_no_menu=1" rel="nofollow">Classes</a> | <a href="https://sigarra.up.pt/feup/pt/hor_geral.ucurr_view?pv_ocorrencia_id=419983" class="urlextern" title="https://sigarra.up.pt/feup/pt/hor_geral.ucurr_view?pv_ocorrencia_id=419983" rel="nofollow">Schedule</a> | <a href="https://sigarra.up.pt/feup/pt/exa_geral.mapa_de_exames?p_ocorr_id=419983" class="urlextern" title="https://sigarra.up.pt/feup/pt/exa_geral.mapa_de_exames?p_ocorr_id=419983" rel="nofollow">Tests (PE, TE)</a></div>
+</li>
+<li class="level1"><div class="li"> Coordinator: <a href="http://sigarra.up.pt/feup/en/func_geral.FormView?p_codigo=230756" class="urlextern" title="http://sigarra.up.pt/feup/en/func_geral.FormView?p_codigo=230756" rel="nofollow">João Correia Lopes</a></div>
+</li>
+<li class="level1"><div class="li"> Attendance hours: Monday, 17:00 ~18:00 <a href="https://sigarra.up.pt/feup/pt/instal_geral.espaco_view?pv_id=73403" class="urlextern" title="https://sigarra.up.pt/feup/pt/instal_geral.espaco_view?pv_id=73403" rel="nofollow">B313</a> and Friday, 16:00 ~ 18:00, <a href="https://sigarra.up.pt/feup/pt/instal_geral.espaco_view?pv_id=73399" class="urlextern" title="https://sigarra.up.pt/feup/pt/instal_geral.espaco_view?pv_id=73399" rel="nofollow">B203</a></div>
+</li>
+</ul>
+
+</div>
+
+<h2 class="sectionedit4" id="course_materials">Course Materials</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> Activities, grades &amp; forums: <a href="https://moodle.up.pt/course/view.php?id=1172" class="urlextern" title="https://moodle.up.pt/course/view.php?id=1172" rel="nofollow">Moodle</a></div>
+</li>
+<li class="level1"><div class="li"> Learn Python and test and see gradings: <a href="http://fpro.fe.up.pt/play/" class="urlextern" title="http://fpro.fe.up.pt/play/" rel="nofollow">FPROplay</a>  <a href="http://fpro.fe.up.pt/test/" class="urlextern" title="http://fpro.fe.up.pt/test/" rel="nofollow">FPROtest</a> </div>
+</li>
+<li class="level1"><div class="li"> Materials: <a href="/~jlopes/doku.php/teach/fpro/resources" class="wikilink1" title="teach:fpro:resources">Directory with (useful) resources</a></div>
+</li>
+<li class="level1"><div class="li"> Rules/<abbr title="Frequently Asked Questions">FAQ</abbr>: <a href="/~jlopes/doku.php/teach/fpro/bylaws" class="wikilink1" title="teach:fpro:bylaws">FPRO&#039;s by-laws</a></div>
+</li>
+</ul>
+
+</div>
+
+<h2 class="sectionedit5" id="plan">Plan</h2>
+<div class="level2">
+
+</div>
+<div class="plugin_include_content plugin_include__teach:fpro:plan-body" id="plugin_include__teach__fpro__plan-body">
+<div class="level2">
+<div class="table sectionedit8"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 rightalign">  Week </th><th class="col1 centeralign">  Week Day  </th><th class="col2"> Lecture topics (teórica) </th><th class="col3 leftalign"> Recitation topics (prática)  </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0 centeralign">  1  </td><td class="col1"> 17/09/2018 </td><td class="col2 leftalign" colspan="2"> <em>Semana Projeto FEUP</em>  </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 centeralign" rowspan="2">  2  </td><td class="col1" rowspan="2"> 24/09/2018 </td><td class="col2 leftalign"> Introduction, Algorithms and Programs, Python <a href="/~jlopes/doku.php/teach/fpro/lectures/01" class="wikilink1" title="teach:fpro:lectures:01">[Class] </a>  </td><td class="col3 leftalign" rowspan="2"> Using Spyder in Linux <a href="/~jlopes/doku.php/teach/fpro/labs/01" class="wikilink1" title="teach:fpro:labs:01">[Class] </a>  </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign"> Simple Python Data <a href="/~jlopes/doku.php/teach/fpro/lectures/02" class="wikilink1" title="teach:fpro:lectures:02">[Class] </a>  </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0 centeralign" rowspan="2">  3  </td><td class="col1" rowspan="2"> 01/10/2018 </td><td class="col2 leftalign"> Program Flow with Turtles <a href="/~jlopes/doku.php/teach/fpro/lectures/03" class="wikilink1" title="teach:fpro:lectures:03">[Class] </a>  </td><td class="col3 leftalign" rowspan="2"> Simple data <a href="/~jlopes/doku.php/teach/fpro/labs/02" class="wikilink1" title="teach:fpro:labs:02">[Class] </a>  </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0 leftalign"> Conditionals <a href="/~jlopes/doku.php/teach/fpro/lectures/04" class="wikilink1" title="teach:fpro:lectures:04">[Class] </a>  </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0 centeralign" rowspan="2">  4  </td><td class="col1" rowspan="2"> 08/10/2018 </td><td class="col2 leftalign"> Iteration <a href="/~jlopes/doku.php/teach/fpro/lectures/05" class="wikilink1" title="teach:fpro:lectures:05">[Class] </a>  </td><td class="col3 leftalign" rowspan="2"> Program Flow with Turtles <a href="/~jlopes/doku.php/teach/fpro/labs/03" class="wikilink1" title="teach:fpro:labs:03">[Class] </a>  </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0 leftalign"> Modules, Help, Tracing, Debugging, Tips <a href="/~jlopes/doku.php/teach/fpro/lectures/06" class="wikilink1" title="teach:fpro:lectures:06">[Class] </a>  </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0 centeralign" rowspan="2">  5  </td><td class="col1" rowspan="2"> 15/10/2018 </td><td class="col2 leftalign"> Functions <a href="/~jlopes/doku.php/teach/fpro/lectures/07" class="wikilink1" title="teach:fpro:lectures:07">[Class] </a>  </td><td class="col3 leftalign" rowspan="2"> Conditionals and iteration <a href="/~jlopes/doku.php/teach/fpro/labs/04" class="wikilink1" title="teach:fpro:labs:04">[Class] </a>  </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0 leftalign"> Fruitful functions <a href="/~jlopes/doku.php/teach/fpro/lectures/08" class="wikilink1" title="teach:fpro:lectures:08">[Class] </a>  </td>
+	</tr>
+	<tr class="row10">
+		<td class="col0 centeralign" rowspan="2">  6  </td><td class="col1" rowspan="2"> 22/10/2018 </td><td class="col2 leftalign"> Testing, main, global variables, tips &amp; tricks <a href="/~jlopes/doku.php/teach/fpro/lectures/09" class="wikilink1" title="teach:fpro:lectures:09">[Class] </a>  </td><td class="col3 leftalign" rowspan="2"> Functions <a href="/~jlopes/doku.php/teach/fpro/labs/05" class="wikilink1" title="teach:fpro:labs:05">[Class] </a>  </td>
+	</tr>
+	<tr class="row11">
+		<td class="col0 leftalign"> Strings <a href="/~jlopes/doku.php/teach/fpro/lectures/10" class="wikilink1" title="teach:fpro:lectures:10">[Class] </a>  </td>
+	</tr>
+	<tr class="row12">
+		<td class="col0 centeralign">  7  </td><td class="col1"> 29/10/2018 </td><td class="col2 leftalign" colspan="2"> <em>Semana FEUP</em>  </td>
+	</tr>
+	<tr class="row13">
+		<td class="col0 centeralign" rowspan="2">  8  </td><td class="col1" rowspan="2"> 05/11/2018 </td><td class="col2 leftalign"> Tuples <a href="/~jlopes/doku.php/teach/fpro/lectures/11" class="wikilink1" title="teach:fpro:lectures:11">[Class] </a>  </td><td class="col3 leftalign" rowspan="2"> Strings <a href="/~jlopes/doku.php/teach/fpro/labs/06" class="wikilink1" title="teach:fpro:labs:06">[Class] </a>  </td>
+	</tr>
+	<tr class="row14">
+		<td class="col0 leftalign"> Lists <a href="/~jlopes/doku.php/teach/fpro/lectures/12" class="wikilink1" title="teach:fpro:lectures:12">[Class] </a>  </td>
+	</tr>
+	<tr class="row15">
+		<td class="col0 centeralign" rowspan="2">  9  </td><td class="col1" rowspan="2"> 12/11/2018 </td><td class="col2 leftalign"> Working with lists <a href="/~jlopes/doku.php/teach/fpro/lectures/13" class="wikilink1" title="teach:fpro:lectures:13">[Class] </a>  </td><td class="col3 leftalign" rowspan="2"> Tuples <a href="/~jlopes/doku.php/teach/fpro/labs/07" class="wikilink1" title="teach:fpro:labs:07">[Class] </a>  </td>
+	</tr>
+	<tr class="row16">
+		<td class="col0 leftalign"> Dictionaries <a href="/~jlopes/doku.php/teach/fpro/lectures/14" class="wikilink1" title="teach:fpro:lectures:14">[Class] </a>  </td>
+	</tr>
+	<tr class="row17">
+		<td class="col0 centeralign" rowspan="2">  10  </td><td class="col1" rowspan="2"> 19/11/2018 </td><td class="col2 leftalign"> List Algorithms <a href="/~jlopes/doku.php/teach/fpro/lectures/15" class="wikilink1" title="teach:fpro:lectures:15">[Class] </a>  </td><td class="col3 leftalign" rowspan="2"> Lists <a href="/~jlopes/doku.php/teach/fpro/labs/08" class="wikilink1" title="teach:fpro:labs:08">[Class] </a>  </td>
+	</tr>
+	<tr class="row18">
+		<td class="col0 leftalign"> Analysis of Algorithms <a href="/~jlopes/doku.php/teach/fpro/lectures/16" class="wikilink1" title="teach:fpro:lectures:16">[Class] </a>  </td>
+	</tr>
+	<tr class="row19">
+		<td class="col0 centeralign" rowspan="2">  11  </td><td class="col1" rowspan="2"> 26/11/2018 </td><td class="col2 leftalign"> Recursion <a href="/~jlopes/doku.php/teach/fpro/lectures/17" class="wikilink1" title="teach:fpro:lectures:17">[Class] </a>  </td><td class="col3 leftalign" rowspan="2"> Dictionaries <a href="/~jlopes/doku.php/teach/fpro/labs/09" class="wikilink1" title="teach:fpro:labs:09">[Class] </a>  </td>
+	</tr>
+	<tr class="row20">
+		<td class="col0 leftalign"> More recursion <a href="/~jlopes/doku.php/teach/fpro/lectures/18" class="wikilink1" title="teach:fpro:lectures:18">[Class] </a>  </td>
+	</tr>
+	<tr class="row21">
+		<td class="col0 centeralign" rowspan="2">  12  </td><td class="col1" rowspan="2"> 03/12/2018 </td><td class="col2 leftalign"> Functional programming with collections <a href="/~jlopes/doku.php/teach/fpro/lectures/19" class="wikilink1" title="teach:fpro:lectures:19">[Class] </a>  </td><td class="col3 leftalign" rowspan="2"> Recursion <a href="/~jlopes/doku.php/teach/fpro/labs/10" class="wikilink1" title="teach:fpro:labs:10">[Class] </a>  </td>
+	</tr>
+	<tr class="row22">
+		<td class="col0 leftalign"> Effect-free programming style <a href="/~jlopes/doku.php/teach/fpro/lectures/20" class="wikilink1" title="teach:fpro:lectures:20">[Class] </a>  </td>
+	</tr>
+	<tr class="row23">
+		<td class="col0 centeralign" rowspan="2">  13  </td><td class="col1" rowspan="2"> 10/12/2018 </td><td class="col2 leftalign"> Files <a href="/~jlopes/doku.php/teach/fpro/lectures/21" class="wikilink1" title="teach:fpro:lectures:21">[Class] </a>  </td><td class="col3 leftalign" rowspan="2"> Functional programming with collections <a href="/~jlopes/doku.php/teach/fpro/labs/11" class="wikilink1" title="teach:fpro:labs:11">[Class] </a>  </td>
+	</tr>
+	<tr class="row24">
+		<td class="col0 leftalign"> Modules <a href="/~jlopes/doku.php/teach/fpro/lectures/22" class="wikilink1" title="teach:fpro:lectures:22">[Class] </a>  </td>
+	</tr>
+	<tr class="row25">
+		<td class="col0 centeralign" rowspan="2">  14  </td><td class="col1" rowspan="2"> 17/12/2018 </td><td class="col2 leftalign"> Exceptions <a href="/~jlopes/doku.php/teach/fpro/lectures/23" class="wikilink1" title="teach:fpro:lectures:23">[Class] </a>  </td><td class="col3 leftalign" rowspan="2"> Files <a href="/~jlopes/doku.php/teach/fpro/labs/12" class="wikilink1" title="teach:fpro:labs:12">[Class] </a>  </td>
+	</tr>
+	<tr class="row26">
+		<td class="col0 leftalign"> Debugging <a href="/~jlopes/doku.php/teach/fpro/lectures/24" class="wikilink1" title="teach:fpro:lectures:24">[Class] </a>  </td>
+	</tr>
+	<tr class="row27">
+		<td class="col0 centeralign">  15  </td><td class="col1"> 24/12/2018 </td><td class="col2 leftalign" colspan="2"> <em>Férias do Natal</em>  </td>
+	</tr>
+	<tr class="row28">
+		<td class="col0 centeralign">  16  </td><td class="col1"> 31/12/2018 </td><td class="col2 leftalign" colspan="2"> <em>Férias do Natal</em>  </td>
+	</tr>
+	<tr class="row29">
+		<td class="col0 centeralign" rowspan="2">  17  </td><td class="col1" rowspan="2"> 07/01/2019 </td><td class="col2 leftalign"> Applications to Deep Learning <a href="/~jlopes/doku.php/teach/fpro/lectures/25" class="wikilink2" title="teach:fpro:lectures:25" rel="nofollow">[Class] </a>  </td><td class="col3 leftalign" rowspan="2"> Exceptions <a href="/~jlopes/doku.php/teach/fpro/labs/13" class="wikilink2" title="teach:fpro:labs:13" rel="nofollow">[Class] </a>  </td>
+	</tr>
+	<tr class="row30">
+		<td class="col0 leftalign"> Applications to Web Apps <a href="/~jlopes/doku.php/teach/fpro/lectures/26" class="wikilink2" title="teach:fpro:lectures:26" rel="nofollow">[Class] </a>  </td>
+	</tr>
+</table></div>
+
+</div>
+</div>
+<div class="level2">
+
+</div>
+
+<h2 class="sectionedit10" id="recent_changes">Recent changes</h2>
+<div class="level2">
+<div class="table">
+<table class="pagelist">
+	<tr>
+		<td class="page"><a href="/~jlopes/doku.php/teach/fpro/labs/12" class="wikilink1" title="teach:fpro:labs:12">P: 17/12/2018</a></td>
+		<td class="date">29/12/2018 13:26</td>
+		<td class="user">Correia Lopes</td>
+	</tr>
+</table>
+</div>
+
+<p>
+ — <em>J. Correia Lopes</em>
+</p>
+
+</div>
+
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>teach/fpro/index.txt</bdi> · Last modified: 20/11/2018 18:23 by <bdi>Correia Lopes</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li class="source"><a href="/~jlopes/doku.php/teach/fpro/index?do=edit" title="Show pagesource [v]" rel="nofollow" accesskey="v"><span>Show pagesource</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 9h5.5L13 3.5V9M6 2h8l6 6v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4c0-1.11.89-2 2-2m.12 13.5l3.74 3.74 1.42-1.41-2.33-2.33 2.33-2.33-1.42-1.41-3.74 3.74m11.16 0l-3.74-3.74-1.42 1.41 2.33 2.33-2.33 2.33 1.42 1.41 3.74-3.74z"/></svg></a></li><li class="revs"><a href="/~jlopes/doku.php/teach/fpro/index?do=revisions" title="Old revisions [o]" rel="nofollow" accesskey="o"><span>Old revisions</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M11 7v5.11l4.71 2.79.79-1.28-4-2.37V7m0-5C8.97 2 5.91 3.92 4.27 6.77L2 4.5V11h6.5L5.75 8.25C6.96 5.73 9.5 4 12.5 4a7.5 7.5 0 0 1 7.5 7.5 7.5 7.5 0 0 1-7.5 7.5c-3.27 0-6.03-2.09-7.06-5h-2.1c1.1 4.03 4.77 7 9.16 7 5.24 0 9.5-4.25 9.5-9.5A9.5 9.5 0 0 0 12.5 2z"/></svg></a></li><li class="backlink"><a href="/~jlopes/doku.php/teach/fpro/index?do=backlink" title="Backlinks" rel="nofollow"><span>Backlinks</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10.59 13.41c.41.39.41 1.03 0 1.42-.39.39-1.03.39-1.42 0a5.003 5.003 0 0 1 0-7.07l3.54-3.54a5.003 5.003 0 0 1 7.07 0 5.003 5.003 0 0 1 0 7.07l-1.49 1.49c.01-.82-.12-1.64-.4-2.42l.47-.48a2.982 2.982 0 0 0 0-4.24 2.982 2.982 0 0 0-4.24 0l-3.53 3.53a2.982 2.982 0 0 0 0 4.24m2.82-4.24c.39-.39 1.03-.39 1.42 0a5.003 5.003 0 0 1 0 7.07l-3.54 3.54a5.003 5.003 0 0 1-7.07 0 5.003 5.003 0 0 1 0-7.07l1.49-1.49c-.01.82.12 1.64.4 2.43l-.47.47a2.982 2.982 0 0 0 0 4.24 2.982 2.982 0 0 0 4.24 0l3.53-3.53a2.982 2.982 0 0 0 0-4.24.973.973 0 0 1 0-1.42z"/></svg></a></li><li class="export_pdf"><a href="/~jlopes/doku.php/teach/fpro/index?do=export_pdf" title="Export to PDF" rel="nofollow"><span>Export to PDF</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M14 9h5.5L14 3.5V9M7 2h8l6 6v12a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2m4.93 10.44c.41.9.93 1.64 1.53 2.15l.41.32c-.87.16-2.07.44-3.34.93l-.11.04.5-1.04c.45-.87.78-1.66 1.01-2.4m6.48 3.81c.18-.18.27-.41.28-.66.03-.2-.02-.39-.12-.55-.29-.47-1.04-.69-2.28-.69l-1.29.07-.87-.58c-.63-.52-1.2-1.43-1.6-2.56l.04-.14c.33-1.33.64-2.94-.02-3.6a.853.853 0 0 0-.61-.24h-.24c-.37 0-.7.39-.79.77-.37 1.33-.15 2.06.22 3.27v.01c-.25.88-.57 1.9-1.08 2.93l-.96 1.8-.89.49c-1.2.75-1.77 1.59-1.88 2.12-.04.19-.02.36.05.54l.03.05.48.31.44.11c.81 0 1.73-.95 2.97-3.07l.18-.07c1.03-.33 2.31-.56 4.03-.75 1.03.51 2.24.74 3 .74.44 0 .74-.11.91-.3m-.41-.71l.09.11c-.01.1-.04.11-.09.13h-.04l-.19.02c-.46 0-1.17-.19-1.9-.51.09-.1.13-.1.23-.1 1.4 0 1.8.25 1.9.35M8.83 17c-.65 1.19-1.24 1.85-1.69 2 .05-.38.5-1.04 1.21-1.69l.48-.31m3.02-6.91c-.23-.9-.24-1.63-.07-2.05l.07-.12.15.05c.17.24.19.56.09 1.1l-.03.16-.16.82-.05.04z"/></svg></a></li><li class="top"><a href="#dokuwiki__top" title="Back to top [t]" rel="nofollow" accesskey="t"><span>Back to top</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    
+    <div class="buttons">
+                <a href="https://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/~jlopes/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="https://php.net" title="Powered by PHP" ><img
+            src="/~jlopes/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="//validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/~jlopes/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="//jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/~jlopes/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="https://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/~jlopes/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55767140-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/~jlopes/lib/exe/indexer.php?id=teach%3Afpro%3Aindex&amp;1546421482" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div></body>
+</html>
