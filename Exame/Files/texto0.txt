@@ -1,3 +1,0 @@
-My first file written from python
-----------------------------------
-Hello world
